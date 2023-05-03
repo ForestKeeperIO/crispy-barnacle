@@ -1,4 +1,1 @@
-# crispy-barnaclecdjcnejkdc keq ckem cme dckemw kvw m 
-cdmkvc lekfdc
-fv mwf vñwf dv
-vfwmv ñwfmv w´
+This are Solidity bootcamp smartcontracts from the lessons
